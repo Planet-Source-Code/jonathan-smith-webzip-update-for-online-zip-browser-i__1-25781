@@ -1,0 +1,64 @@
+//////////////////////////
+//
+//Icons
+//
+//////////////////////////
+
+//11 ICON MOVEABLE PURE "FLGGERM.ICO"
+//12 ICON MOVEABLE PURE "FLGUSA02.ICO"
+//13 ICON MOVEABLE PURE "FLGSPAIN.ICO"
+//14 ICON MOVEABLE PURE "FLGFRAN.ICO"
+//15 ICON MOVEABLE PURE "FLGITALY.ICO"
+//16 ICON MOVEABLE PURE "FLGBRAZL.ICO"
+
+
+///////////////////////////////
+//
+// Bitmaps
+//
+///////////////////////////////
+
+
+50 BITMAP DISCARDABLE  "GelUp.bmp"
+51 BITMAP DISCARDABLE  "GelHover.bmp"
+//
+52 BITMAP DISCARDABLE  "SilentUp.bmp"
+53 BITMAP DISCARDABLE  "SilentHover.bmp"
+
+
+//////////////////////////////////////////////////////////////////////////////
+//
+// Sound
+//
+
+60 WAV_SOUND DISCARDABLE "Hover.Wav"
+61 WAV_SOUND DISCARDABLE "Clique.Wav"
+
+/////////////////////////////////
+//
+// Strings
+//
+// 1000 to 1999 = German
+// 2000 to 2999 = English
+// 3000 to 3999 = Spanish
+// 4000 to 4999 = French
+// 5000 to 5999 = Italian
+// 6000 to 6999 = Portuguese (Brazilian)
+//
+////////////////////////////////
+
+STRINGTABLE DISCARDABLE
+BEGIN
+// 1000 to 1999 = German
+1000	"OK"
+// 2000 to 2999 = English
+2000	"OK"
+// 3000 to 3999 = Spanish
+3000	"OK"
+// 4000 to 4999 = French
+4000	"OK"
+// 5000 to 5999 = Italian
+5000	"OK"
+// 6000 to 6999 = Portuguese (Brazilian)
+6000	"OK"
+END
